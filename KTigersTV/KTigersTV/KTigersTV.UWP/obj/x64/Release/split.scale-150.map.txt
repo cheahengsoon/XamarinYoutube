@@ -1,0 +1,11 @@
+﻿[ResourceMetadata]
+"ResourceId"			"split.scale-150"
+"ResourceDimensions"		"scale-150"
+
+[Files]
+"C:\Users\cheah\documents\visual studio 2017\Projects\KTigersTV\KTigersTV\KTigersTV.UWP\obj\x64\Release\split.scale-150.pri"			"resources.pri"
+"C:\Users\cheah\documents\visual studio 2017\Projects\KTigersTV\KTigersTV\KTigersTV.UWP\obj\x64\Release\PackageLayout\Assets\Wide310x150Logo.scale-150.png"			"Assets\Wide310x150Logo.scale-150.png"
+"C:\Users\cheah\documents\visual studio 2017\Projects\KTigersTV\KTigersTV\KTigersTV.UWP\obj\x64\Release\PackageLayout\Assets\Square44x44Logo.scale-150.png"			"Assets\Square44x44Logo.scale-150.png"
+"C:\Users\cheah\documents\visual studio 2017\Projects\KTigersTV\KTigersTV\KTigersTV.UWP\obj\x64\Release\PackageLayout\Assets\Square150x150Logo.scale-150.png"			"Assets\Square150x150Logo.scale-150.png"
+"C:\Users\cheah\documents\visual studio 2017\Projects\KTigersTV\KTigersTV\KTigersTV.UWP\obj\x64\Release\PackageLayout\Assets\SplashScreen.scale-150.png"			"Assets\SplashScreen.scale-150.png"
+"C:\Users\cheah\documents\visual studio 2017\Projects\KTigersTV\KTigersTV\KTigersTV.UWP\obj\x64\Release\PackageLayout\Assets\LockScreenLogo.scale-150.png"			"Assets\LockScreenLogo.scale-150.png"

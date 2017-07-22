@@ -1,0 +1,2 @@
+MainPackage=C:\Users\cheah\documents\visual studio 2017\Projects\KTigersTV\KTigersTV\KTigersTV.UWP\bin\x86\Release\KTigersTV.UWP_1.1.0.0_x86.appx
+SymbolPackage=C:\Users\cheah\documents\visual studio 2017\Projects\KTigersTV\KTigersTV\KTigersTV.UWP\AppPackages\KTigersTV.UWP_1.1.0.0_Test\KTigersTV.UWP_1.1.0.0_x86.appxsym

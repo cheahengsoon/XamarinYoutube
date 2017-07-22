@@ -1,0 +1,2 @@
+C:\Users\cheah\documents\visual studio 2017\Projects\KTigersTV\KTigersTV\KTigersTV.UWP\KTigersTV.UWP.csproj;x64
+C:\Users\cheah\documents\visual studio 2017\Projects\KTigersTV\KTigersTV\KTigersTV\KTigersTV.csproj;neutral

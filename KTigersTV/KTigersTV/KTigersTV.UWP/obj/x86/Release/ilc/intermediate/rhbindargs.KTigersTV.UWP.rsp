@@ -1,0 +1,16 @@
+/osver:6.2
+/appcontainer
+/runtime:mrt100_app
+/eh:clr
+/pdb
+"/nativeLink:C:\Users\cheah\.nuget\packages\microsoft.net.native.compiler\1.6.2\tools\x86\ilc\lib\Native\vmath.lib"
+/customImports
+/methodBodyFolding
+"C:\Users\cheah\documents\visual studio 2017\Projects\KTigersTV\KTigersTV\KTigersTV.UWP\obj\x86\Release\ilc\intermediate\MDIL\KTigersTV.UWP.mdilexe"
+"/i:C:\Users\cheah\documents\visual studio 2017\Projects\KTigersTV\KTigersTV\KTigersTV.UWP\obj\x86\Release\ilc\intermediate\MDIL"
+"/out:C:\Users\cheah\documents\visual studio 2017\Projects\KTigersTV\KTigersTV\KTigersTV.UWP\obj\x86\Release\ilc\intermediate\Native\KTigersTV.UWP.exe"
+"/pdbAltPath:C:\Users\cheah\documents\visual studio 2017\Projects\KTigersTV\KTigersTV\KTigersTV.UWP\bin\x86\Release\ilc"
+"/res:C:\Users\cheah\documents\visual studio 2017\Projects\KTigersTV\KTigersTV\KTigersTV.UWP\obj\x86\Release\ilc\intermediate\Native.res"
+"/i:C:\Users\cheah\.nuget\packages\microsoft.net.native.sharedlibrary-x86\1.6.1\tools\SharedLibrary\ret\MDIL"
+/shimexe
+"/classlib:SharedLibrary"

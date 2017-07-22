@@ -1,0 +1,6 @@
+MainPackage=C:\Users\cheah\documents\visual studio 2017\Projects\KTigersTV\KTigersTV\KTigersTV.UWP\bin\ARM\Release\Upload\KTigersTV.UWP_1.1.0.0_ARM.appx
+SymbolPackage=C:\Users\cheah\documents\visual studio 2017\Projects\KTigersTV\KTigersTV\KTigersTV.UWP\bin\ARM\Release\Upload\KTigersTV.UWP_1.1.0.0\KTigersTV.UWP_1.1.0.0_ARM.appxsym
+ResourcePack=C:\Users\cheah\documents\visual studio 2017\Projects\KTigersTV\KTigersTV\KTigersTV.UWP\_scale-100.appx
+ResourcePack=C:\Users\cheah\documents\visual studio 2017\Projects\KTigersTV\KTigersTV\KTigersTV.UWP\_scale-125.appx
+ResourcePack=C:\Users\cheah\documents\visual studio 2017\Projects\KTigersTV\KTigersTV\KTigersTV.UWP\_scale-150.appx
+ResourcePack=C:\Users\cheah\documents\visual studio 2017\Projects\KTigersTV\KTigersTV\KTigersTV.UWP\_scale-400.appx
